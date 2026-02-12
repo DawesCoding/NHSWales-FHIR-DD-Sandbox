@@ -1,0 +1,16 @@
+- name: Administrative Data
+  filename: Administrative-Data
+- name: Allergy
+  filename: Allergy
+- name: Care Documents
+  filename: Care-Documents
+- name: Diagnostic Reports
+  filename: Diagnostic-Reports
+- name: Growth Charts
+  filename: Growth-Charts
+- name: Medications
+  filename: Medications
+- name: Provenance
+  filename: Provenance
+- name: Sensitive Data
+  filename: Sensitive-Data
