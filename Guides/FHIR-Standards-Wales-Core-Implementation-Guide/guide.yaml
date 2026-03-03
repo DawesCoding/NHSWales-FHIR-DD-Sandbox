@@ -1,0 +1,6 @@
+title: FHIR Standards Wales Core Implementation Guide
+description: Core FHIR resources and guidance for implementers in Wales
+version: 3.0.0
+style-root: project
+style-name: NHSWalesStyle
+numbered-headings: false
