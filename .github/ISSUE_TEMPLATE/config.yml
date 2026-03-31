@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FHIR Standards and Implementation Team
+    url: FHIR.Standards@wales.nhs.uk
+    about: Please contact the official NHS Wales FHIR Standards team in the first instance for any queries.
