@@ -5,7 +5,6 @@ labels: ["bug", "triage"]
 projects: ["DawesCoding/NHSWales-FHIR-DD-Sandbox"]
 assignees:
   - DawesCoding
-type: bug
 body:
   - type: markdown
     attributes:
