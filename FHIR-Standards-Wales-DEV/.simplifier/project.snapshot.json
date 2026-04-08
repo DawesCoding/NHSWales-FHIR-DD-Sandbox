@@ -1,0 +1,2535 @@
+{
+  "Timestamp": "2024-11-22T10:24:59.6759926+00:00",
+  "Files": {
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Admission\\Example-DataStandardsWales-List-Medications-Admission.page.md": {
+      "Length": 4134,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "A04E714DB4FF0845E6E6459B48160EA7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Admission\\Example-DataStandardsWales-MedicationStatement-Ibupro.-Admission.page.md": {
+      "Length": 1583,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "16FE680065BCCFEBE95E1C0E6E645F00"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Admission\\Example-DataStandardsWales-MedicationStatement-Parace.-Admission.page.md": {
+      "Length": 1520,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "1A385E1C82C385A3B9A57DDC3CE745A4"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Aspirin.json": {
+      "Length": 1589,
+      "LastWriteTime": "2023-08-01T14:13:48+00:00",
+      "Hash": "EF83C21DAE1B6D4FDFAF1F9A496C64F7"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-DegradedAspirin.json": {
+      "Length": 1186,
+      "LastWriteTime": "2023-07-31T11:24:10+00:00",
+      "Hash": "547D342C92DAC18C7566A88E447EF568"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-DegradedIbuprofen.page.md": {
+      "Length": 1602,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "6F85CE8FB06E9D236AAAC15854712650"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-DegradedMorphine.page.md": {
+      "Length": 1568,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "021E8F6B482500212BD0F2B274D6A663"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-DegradedWasps.page.md": {
+      "Length": 1553,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "157EDFCABA9F7584A9EC2ED5357FC30F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-NoKnownAllergy.page.md": {
+      "Length": 1525,
+      "LastWriteTime": "2024-09-30T13:08:50+00:00",
+      "Hash": "4DAF025CCE7F0C5221675DD5B8C906D1"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Potato.json": {
+      "Length": 1574,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "3A0B4D9EFC7318FA7F03C9798837A6AE"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Potato-SoftDelete.json": {
+      "Length": 1461,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "ACD8D7D32825EBA73B9CC0DDE96A73CB"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Wasps.json": {
+      "Length": 1504,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "15C76FBBE8A495344AFFA8A7C265E98C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Extension-DataStandardsWales-Religion.page.md": {
+      "Length": 922,
+      "LastWriteTime": "2024-05-23T08:23:10+00:00",
+      "Hash": "8CFAE1790C15AB25CEF61F4B2D242FB9"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-MedicationAdministration.page.md": {
+      "Length": 2383,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "D7224927F82B4F3DC2CB48433CF1A208"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Location-WardE.page.md": {
+      "Length": 1336,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "20CDF9429EBCB336D149D5D5AC022831"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Admission\\toc.yaml": {
+      "Length": 458,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "3AD713852161AB86FDD88ED84EECCCAE"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\toc.yaml": {
+      "Length": 1894,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "5B6F6AE68C76CA50EC444172319EBF44"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\toc.yaml": {
+      "Length": 1894,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "D615007FA31EEDDE6427B538D4CE7D4B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Outpatient\\toc.yaml": {
+      "Length": 300,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "667A6A4F394D848B87BF5E52325A17CD"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-DiagnosticReport.page.md": {
+      "Length": 10022,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "950DADE6D3D936CDFE1434CF3AF8D210"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-ImagingStudy.page.md": {
+      "Length": 2072,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "DAAC95ECA42AE15FDB6F7FF4B1CDA488"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Immunization.page.md": {
+      "Length": 4841,
+      "LastWriteTime": "2024-10-11T09:51:26+00:00",
+      "Hash": "ABE2C4B57B16D2D458164781A4DA435F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-MedicationList.page.md": {
+      "Length": 3771,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "D2261F0F83B0D627A9370D48C504E03F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Observation-Lab.page.md": {
+      "Length": 10242,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "BB2468C244EC87169039F3C75162544A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Organization.page.md": {
+      "Length": 5133,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "42078E3E915F306E741DECA2B5936AEA"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Practitioner.page.md": {
+      "Length": 3702,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "F0E24DCA9B07828310E2E246977C19E9"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-PractitionerRole.page.md": {
+      "Length": 3133,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "3B75E198EEE638C0968D6F977A6DEDFC"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-ServiceRequest.page.md": {
+      "Length": 3230,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "3D525A834151423DEEEB3535CB4ECAF0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-PatientRecordType.page.md": {
+      "Length": 181,
+      "LastWriteTime": "2024-05-23T13:03:04+00:00",
+      "Hash": "936F8A682F428B14632A171C87E4F68C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-Sex.page.md": {
+      "Length": 158,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "3A2C6A3F04BC3AF8CA59B00338F43DB1"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-Title.page.md": {
+      "Length": 162,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "E9650A1A6F3DA9EBCE69A7D28F962E5F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\CodeSystem-DataStandardsWales-GenderIdentity.page.md": {
+      "Length": 161,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "68421D4B9E8B90770F6B52E07EDADF8C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\CodeSystem-DataStandardsWales-MaritalStatus.page.md": {
+      "Length": 160,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "E73F75573899D6BADF1EBDDFA3F354A6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\CodeSystem-DataStandardsWales-WrrsTaskType.page.md": {
+      "Length": 159,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "14BACB732DB135E1364A9BA8B8A3D2F4"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\ConceptMap-DataStandardsWales-Sex-UKCoreBirthSex.page.md": {
+      "Length": 165,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "AFE4DF6E5389D2AE767151B18C9DCDF7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\ConceptMap-DataStandardsWales-UKCoreBirthSex-Sex.page.md": {
+      "Length": 165,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "2E9819583D2B475A606A1216ED4852ED"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-Conventions-for-File-Paths-and-Identifiers.page.md": {
+      "Length": 1633,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "C8D2451D38928064EE655ECB1DC74834"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-Conventions-for-NamingSystem-Resources.page.md": {
+      "Length": 482,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "28C9B15F1AD4C2939F01C9661BDDEC39"
+    },
+    "NamingSystems\\NamingSystem-ABUHB-pas-identifier.xml": {
+      "Length": 772,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "EE85CDBE887C45A7B4BC4A2A386D0B4F"
+    },
+    "Profiles\\Profile-DataStandardsWales-AllergyIntolerance.xml": {
+      "Length": 5096,
+      "LastWriteTime": "2023-08-15T08:02:50+00:00",
+      "Hash": "FBA7F44BF691AFDE5E4F9D35B6C6FD67"
+    },
+    "Profiles\\Profile-DataStandardsWales-AllergyList.xml": {
+      "Length": 5322,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "956B37C52A1C06E99D603FC9BDBBB55B"
+    },
+    "NamingSystems\\NamingSystem-Application-instance-identifier.xml": {
+      "Length": 758,
+      "LastWriteTime": "2024-05-20T08:34:38+00:00",
+      "Hash": "4C340A5BFDBED7CF12CEFDA9D6DE010F"
+    },
+    "NamingSystems\\NamingSystem-BCU-pas-identifier.xml": {
+      "Length": 881,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "0015AD3D8E2D6CAC07A2AEEC1955D2B5"
+    },
+    "NamingSystems\\NamingSystem-CAVUHB-pas-identifier.xml": {
+      "Length": 767,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "E4A8C5F21D86CCA332ED0BE877D50510"
+    },
+    "NamingSystems\\NamingSystem-CTMUHB-pas-identifier.xml": {
+      "Length": 770,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "BABDB654ED7A6DB49CFBBDCE1B024D13"
+    },
+    "Profiles\\Profile-DataStandardsWales-Device.xml": {
+      "Length": 3404,
+      "LastWriteTime": "2024-06-20T09:35:56+00:00",
+      "Hash": "EB4AC773657F0C7D30EDFE2077A3A69B"
+    },
+    "Profiles\\Profile-DataStandardsWales-DiagnosticReport.xml": {
+      "Length": 5433,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "822067806D7A7646799B8B39A971DD32"
+    },
+    "Profiles\\Profile-DataStandardsWales-DiagnosticReport-Lab.xml": {
+      "Length": 4217,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "05F9AC9C4E777B636858A46BBC01003C"
+    },
+    "Profiles\\Profile-DataStandardsWales-Dosage.xml": {
+      "Length": 3764,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "E744D09590C4BBDFEE55263293B4BD14"
+    },
+    "Profiles\\Profile-DataStandardsWales-Encounter.xml": {
+      "Length": 5385,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "7F2F43DFF89276B55A6172ACAC1456DC"
+    },
+    "Profiles\\Profile-DataStandardsWales-Endpoint.xml": {
+      "Length": 1086,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "E650F0D41CFEDFB3CE5A684EA815EE80"
+    },
+    "CodeSystems\\CodeSystem-DataStandardsWales-GenderIdentity.xml": {
+      "Length": 1413,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "791994665CD098CBA35288BE63BD75DE"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-GenderIdentity.xml": {
+      "Length": 2310,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "EC2D9F9B609F9AFDA93F6C0C57F99784"
+    },
+    "ConceptMaps\\ConceptMap-DataStandardsWales-GenderIdentity-HL7AdministrativeGender.xml": {
+      "Length": 1858,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "FC9FBB289AB299CF649CA43C66855CD4"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\ConceptMap-DataStandardsWales-GenderIdentity-HL7AdministrativeGender.page.md": {
+      "Length": 185,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "751DC118F694CAE0995EB5D6091835A1"
+    },
+    "NamingSystems\\NamingSystem-GPCluster-code.xml": {
+      "Length": 589,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "06269EB18DF9508AA7363A544E7ED3C7"
+    },
+    "NamingSystems\\NamingSystem-HDUHB-pas-identifier.xml": {
+      "Length": 752,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "066E08052C791CA08DFDB9CD81D6F02B"
+    },
+    "ConceptMaps\\ConceptMap-DataStandardsWales-HL7AdministrativeGender-GenderIdentity.xml": {
+      "Length": 1859,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "5C69C542BB7F2A901C05BDEAB1170CC1"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\ConceptMap-DataStandardsWales-HL7AdministrativeGender-GenderIdentity.page.md": {
+      "Length": 185,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "D5907F07E2E5EA90D01723DC90BAE966"
+    },
+    "Profiles\\Profile-DataStandardsWales-ImagingStudy.xml": {
+      "Length": 4114,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "53C2E4586960510EA3F66DC3C44E2397"
+    },
+    "Profiles\\Profile-DataStandardsWales-Immunization.xml": {
+      "Length": 11168,
+      "LastWriteTime": "2023-08-14T11:32:08+00:00",
+      "Hash": "C67DA7B54198DB180A37135926C24DEC"
+    },
+    "NamingSystems\\NamingSystem-LIMS-Identifier.xml": {
+      "Length": 822,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "7C334987E49EF9B8BEA1C00B9D048450"
+    },
+    "Profiles\\Profile-DataStandardsWales-Location.xml": {
+      "Length": 4107,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "D03E3113B9C2C5545B7386C55736C604"
+    },
+    "CodeSystems\\CodeSystem-DataStandardsWales-MaritalStatus.xml": {
+      "Length": 1831,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "D2AD91F7373134D323D43E8655E8C84B"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-MaritalStatus.xml": {
+      "Length": 3148,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "228550E271FB06EF222043AADAD3989F"
+    },
+    "ConceptMaps\\ConceptMap-DataStandardsWales-MaritalStatus-UKCorePersonMaritalStatusCode.xml": {
+      "Length": 4317,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "DE5651A93FD8112210DB6FDA3415D026"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\ConceptMap-DataStandardsWales-MaritalStatus-UKCorePersonMaritalStatusCode.page.md": {
+      "Length": 190,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "D5FD01F8EE4E82C5854054A5FE6BE744"
+    },
+    "Profiles\\Profile-DataStandardsWales-Medication.xml": {
+      "Length": 946,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "E03AE6DA48534DE40769FEEA69E546E4"
+    },
+    "Profiles\\Profile-DataStandardsWales-MedicationAdministration.xml": {
+      "Length": 7917,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "20EDD3C6626B19CE47D8407339A25AF2"
+    },
+    "Profiles\\Profile-DataStandardsWales-MedicationDispense.xml": {
+      "Length": 14517,
+      "LastWriteTime": "2024-07-04T09:52:38+00:00",
+      "Hash": "F33DBD3FF55908EE81D56DB515593A34"
+    },
+    "Profiles\\Profile-DataStandardsWales-MedicationList.xml": {
+      "Length": 3657,
+      "LastWriteTime": "2023-08-16T09:17:32+00:00",
+      "Hash": "37F95BF7BAD4E0DE3B719CCCEFB97EAE"
+    },
+    "Profiles\\Profile-DataStandardsWales-MedicationRequest.xml": {
+      "Length": 12088,
+      "LastWriteTime": "2024-07-04T09:52:38+00:00",
+      "Hash": "5CE24D01760A8A55EFE0863657669541"
+    },
+    "Profiles\\Profile-DataStandardsWales-MedicationStatement.xml": {
+      "Length": 5860,
+      "LastWriteTime": "2024-07-04T09:52:38+00:00",
+      "Hash": "B9CB5BE5E7A836CEC1E9A2FA9C3039F7"
+    },
+    "Profiles\\Profile-DataStandardsWales-Observation.xml": {
+      "Length": 6865,
+      "LastWriteTime": "2024-10-30T11:55:18+00:00",
+      "Hash": "7B33C8C66BD3601FA1FE6B0A8931FF8C"
+    },
+    "Profiles\\Profile-DataStandardsWales-Observation-Lab.xml": {
+      "Length": 1748,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "8270E5A5EBA03F6DD78DB9B8DEBC6D02"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-Occupation.xml": {
+      "Length": 543820,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "CC0CA9B80FF7489B7F0F8E315C8BBC14"
+    },
+    "Profiles\\Profile-DataStandardsWales-Organization.xml": {
+      "Length": 5273,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "92C50419EA68FB79467A2AD921CECBC8"
+    },
+    "Profiles\\Profile-DataStandardsWales-Patient.xml": {
+      "Length": 15320,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "6133E65C10762AE6264E3EFF44B74EDE"
+    },
+    "CodeSystems\\CodeSystem-DataStandardsWales-PatientRecordType.xml": {
+      "Length": 1632,
+      "LastWriteTime": "2024-05-23T11:37:06+00:00",
+      "Hash": "A8F013AE4E29A5354BEC6BDEFB8F4787"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-PatientRecordType.xml": {
+      "Length": 938,
+      "LastWriteTime": "2024-05-23T11:37:06+00:00",
+      "Hash": "ED267B54449A6278F65E18BD41FE8E45"
+    },
+    "Profiles\\Profile-DataStandardsWales-Practitioner.xml": {
+      "Length": 6528,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "3EEC926EA9C78CA174279781B004D0B9"
+    },
+    "Profiles\\Profile-DataStandardsWales-PractitionerRole.xml": {
+      "Length": 2624,
+      "LastWriteTime": "2023-08-13T13:18:40+00:00",
+      "Hash": "1855A262A1A363977ED915F4E2BBD106"
+    },
+    "Profiles\\Profile-DataStandardsWales-Provenance.xml": {
+      "Length": 2291,
+      "LastWriteTime": "2024-06-19T09:15:24+00:00",
+      "Hash": "C41B580E7DF46F76CC1F47B0D84FD060"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-ProvenanceActivity.xml": {
+      "Length": 2647,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "03F4EFBB8F3C592334C052526174D532"
+    },
+    "NamingSystems\\NamingSystem-PTHB-pas-identifier.xml": {
+      "Length": 736,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "53469FB0CB6EC97209312BA08B62186E"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-Religion.xml": {
+      "Length": 26994,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "58E9F0EAC433BE09865BA8D2513A0223"
+    },
+    "NamingSystems\\NamingSystem-SBUHB-pas-identifier.xml": {
+      "Length": 895,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "E6A6E7A5B8EAEE757F188A0ECC69A376"
+    },
+    "Profiles\\Profile-DataStandardsWales-ServiceRequest.xml": {
+      "Length": 6480,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "52DD4B599AE0192F80A00F7044FF66B0"
+    },
+    "CodeSystems\\CodeSystem-DataStandardsWales-Sex.xml": {
+      "Length": 1183,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "666500B4346B4779C826AF0829EB8BE0"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-Sex.xml": {
+      "Length": 2043,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "6E43E9D01749A1FA29352A2657B3ADA4"
+    },
+    "ConceptMaps\\ConceptMap-DataStandardsWales-Sex-UKCoreBirthSex.xml": {
+      "Length": 2306,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "1552F1D90068797282DE17F43EDAB712"
+    },
+    "Profiles\\Profile-DataStandardsWales-Specimen.xml": {
+      "Length": 2815,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "7C0F0EB0121E4E8FAD13B0D86614E871"
+    },
+    "CodeSystems\\CodeSystem-DataStandardsWales-Title.xml": {
+      "Length": 8125,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "C59E9A1A0D986EAA2B746F6C1E33C020"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-Title.xml": {
+      "Length": 5153,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "16316B6FE946B37FE896F384E2F12FCF"
+    },
+    "ConceptMaps\\ConceptMap-DataStandardsWales-UKCoreBirthSex-Sex.xml": {
+      "Length": 2328,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "36F46220522A5D86F5E7CBCA7F8A122B"
+    },
+    "ConceptMaps\\ConceptMap-DataStandardsWales-UKCorePersonMaritalStatusCode-MaritalStatus.xml": {
+      "Length": 6512,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "0810A742C816868482174FF197AA0BFF"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\ConceptMap-DataStandardsWales-UKCorePersonMaritalStatusCode-MaritalStatus.page.md": {
+      "Length": 190,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "F2C49BB3411DB270F4A586794A4FF4BA"
+    },
+    "NamingSystems\\NamingSystem-VUNHST-canisc-identifier.xml": {
+      "Length": 905,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "E8D4C4A9ADCFD6A50D8E3609AF86E829"
+    },
+    "NamingSystems\\NamingSystem-VUNHST-pas-identifier.xml": {
+      "Length": 888,
+      "LastWriteTime": "2024-05-23T09:40:48+00:00",
+      "Hash": "222EF12EBE4CD546F0A7785EC9E8CAC5"
+    },
+    "NamingSystems\\NamingSystem-WRRS-master-report-identifier.xml": {
+      "Length": 850,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "67A56CEDAAB3F4C48ACB4A4065709331"
+    },
+    "NamingSystems\\NamingSystem-WRRS-report-identifier.xml": {
+      "Length": 823,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "C1C7A69F835BF733F3364C5A071F254B"
+    },
+    "CodeSystems\\CodeSystem-DataStandardsWales-WrrsTaskType.xml": {
+      "Length": 1510,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "45781C22999296F93FDF2F570545B95E"
+    },
+    "ValueSets\\ValueSet-DataStandardsWales-WrrsTaskType.xml": {
+      "Length": 889,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "244F8C76721E42FE3E9A7D7FEFFAB65D"
+    },
+    "NamingSystems\\NamingSystem-WRTS-location-identifier.xml": {
+      "Length": 526,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "8BF00D5BFB77E02C2740913BB6CC7670"
+    },
+    "NamingSystems\\NamingSystem-WRTS-organization-identifier.xml": {
+      "Length": 529,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "82BFDC8DA4344EFAD01754D2321D0A64"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-Conventions-for-Extensions.page.md": {
+      "Length": 1319,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "EAD22FA39064200DAF84CA1271FC4A1C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Diagnostic-Reports\\Clinical-Scenario-Cardiology-Result-Attached-Document.page.md": {
+      "Length": 1882,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "F37ACFF4F677D86AF86129709510E9D8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-MultiplePanel.page.md": {
+      "Length": 1474,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "9AC7BB524A1C5ADA3A9F88801F6D58B7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-PathologyOrder.page.md": {
+      "Length": 1512,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "C5ADA775CED993B0042E7EFF107B147B"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-PathologyOrder-FBC.xml": {
+      "Length": 1834,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "480385F212843725B71F9CA1AFC40DF3"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-PathologyOrder-FBCLFT.xml": {
+      "Length": 2066,
+      "LastWriteTime": "2023-08-02T12:54:36+00:00",
+      "Hash": "34D73A259A4A0606C8628250A1DBBF27"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-PathologyOrder-LFTACE.xml": {
+      "Length": 1848,
+      "LastWriteTime": "2023-08-02T12:54:36+00:00",
+      "Hash": "0BB2F9B92E9CCF368BE6F8AB8932BF31"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-RadiologyOrder.page.md": {
+      "Length": 1475,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "EA074B80265F1A013A027A753B435ACC"
+    },
+    "Diagrams\\Diagram-DiagnosticReportLab-DerivedFrom.drawio.png": {
+      "Length": 14979,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "E8DC20CB8496104C44593E8CBF65ACAC"
+    },
+    "Diagrams\\Diagram-DiagnosticReport-MultiplePanel.png": {
+      "Length": 56790,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "58A5815697EFF124AC349A3A8E505843"
+    },
+    "Diagrams\\Diagram-Observation-DerivedFrom.drawio.png": {
+      "Length": 14205,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "4A68CCEFAB44984E823D5FED71E09075"
+    },
+    "Diagrams\\Guidance-MandatoryElements.png": {
+      "Length": 43057,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "D8E6ADEC6F37D6CF89BA847106283482"
+    },
+    "Diagrams\\Guidance-MustSupportElements.png": {
+      "Length": 30509,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "8F6D23264893DD22F41BF6652DB2F714"
+    },
+    "Diagrams\\LogicalModel-DiagnosticReport-ImagingStudy.drawio.png": {
+      "Length": 17498,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "9CD59A17B384BEB8058249259534BB6D"
+    },
+    "Diagrams\\LogicalModel-DiagnosticReport-MultiplePanel.drawio.png": {
+      "Length": 223743,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "FEC26E0563A807B19D1E7C7A27E59EC0"
+    },
+    "Diagrams\\LogicalModel-DiagnosticReport-ReportDocument.drawio.png": {
+      "Length": 10750,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "61AACD5BCB6E426ED731EC934C931ACC"
+    },
+    "Diagrams\\LogicalModel-DiagnosticReport-SinglePanel.drawio.png": {
+      "Length": 136175,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "AD6830E4DAB9D7254C198D0AAAE57133"
+    },
+    "Diagrams\\LogicalModel-Observation-Panel.drawio.png": {
+      "Length": 30071,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "AEE18D45B729F066C0D80FAF1C9AFC63"
+    },
+    "Diagrams\\LogicalModel-OrganizationsAndLocations.drawio.png": {
+      "Length": 27840,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "DE68656FE2CF21DC82A98D4A7CE853C0"
+    },
+    "Diagrams\\LogicalModel-PractitionerRole.drawio.png": {
+      "Length": 14544,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "2463C5534DEF3F55F5E1F4635CD42243"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-List-Medications-Discharge.page.md": {
+      "Length": 4014,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "5CFA042FB152FB3C7BF012930595E456"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Atorva.-Discharge.page.md": {
+      "Length": 1481,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "D80CECCBBDAB81D2AFB36FFFFD3A1B6D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Bendro.-Discharge.page.md": {
+      "Length": 1523,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "3343A80533F474F8237C9BBFAE56C302"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Bisop.-Discharge.page.md": {
+      "Length": 1469,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "4CC159FC4821496BEFCFC31BFC97D076"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Duroge.-Discharge.page.md": {
+      "Length": 1500,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "70AB0E94E00B28CDE62EA0ABE6255DE3"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Enbrel-Discharge.page.md": {
+      "Length": 1520,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "75935616624334A051AE69839A89B2C5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Hydroc.-Discharge.page.md": {
+      "Length": 1493,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "A263ECCCF4F71CE897BB0A89F6C75C58"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Ibupro.-Discharge.page.md": {
+      "Length": 1463,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "5E466CD85AB7CFEA9CB4D5C3C94B9FC1"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Latano.-Discharge.page.md": {
+      "Length": 1475,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "3472DB87816BF73BAF98E48B650EEFE3"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Nifedi.-Discharge.page.md": {
+      "Length": 1475,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "E93246DB08FE38F1D3809B132B0CBBE9"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Parace.-Discharge.page.md": {
+      "Length": 1475,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "8ECB9F72ABD46DD524A50304CA40F6C2"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Discharge\\Example-DataStandardsWales-MedicationStatement-Ramipr.-Discharge.page.md": {
+      "Length": 1457,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "5593A24DE8B78CD86072E6A825B70308"
+    },
+    "Examples\\Dosage\\Example-DataStandardsWales-Dosage-InhalerWithAdditionalInstructions.xml": {
+      "Length": 652,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "9FC66969CDCD8765868D0DB4FB6508D4"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-DegradedMorphine.json": {
+      "Length": 1219,
+      "LastWriteTime": "2023-07-31T11:24:10+00:00",
+      "Hash": "6BD32997B8F5B9F0FC2BBEB8974F14BF"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-DegradedWasps.json": {
+      "Length": 1183,
+      "LastWriteTime": "2023-07-31T11:24:10+00:00",
+      "Hash": "CDEC25152F4669E061F2BE627F6D2CA2"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Ibuprofen.json": {
+      "Length": 1265,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "4382BFD73E6B477237CD3070104E2046"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Morphine.json": {
+      "Length": 1915,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "A6EF26D83BE02CC314B4C7AF5A787FD5"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-NoKnownAllergy.json": {
+      "Length": 1204,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "84C60E96DB27A1A2213B7E143BA6F0C8"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-Bundle-Allergies-Degraded.json": {
+      "Length": 13358,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "E41D17D4D675AB23CFEF7CB9284468A1"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-Bundle-Allergies-Upgrade.json": {
+      "Length": 10868,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "C71C77E86ED9952F4D992B0586FEDCBA"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-CTAbdomen.xml": {
+      "Length": 2305,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "64CA26D8AEE58A64E8417D32B1F34237"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-ECG.xml": {
+      "Length": 2168,
+      "LastWriteTime": "2023-08-01T13:50:54+00:00",
+      "Hash": "CBA62234E3197031255D1C87175E2073"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-FullBloodCount.xml": {
+      "Length": 2613,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "5C7906BCAE02A304021A403628A457B8"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-LiverFunctionTest.xml": {
+      "Length": 2761,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "F2D0655B20374053EF743B41CCC6609B"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-StressTest.xml": {
+      "Length": 2221,
+      "LastWriteTime": "2023-08-01T13:50:54+00:00",
+      "Hash": "891FAD66A1081EF948C240D1F73063A9"
+    },
+    "Examples\\Example-DataStandardsWales-Encounter-EmergencyAdmission.xml": {
+      "Length": 3396,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "59C433646779F409D06B2A82EF112961"
+    },
+    "Examples\\Example-DataStandardsWales-Encounter-Outpatient.xml": {
+      "Length": 2945,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "17CD7B2A2BAE69E8791EB15DFC0BF42A"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-Endpoint-Dicom.xml": {
+      "Length": 1452,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "021DC0F7DC717FB43546CAF6FE2334B0"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ImagingStudy-CTAbdomen.xml": {
+      "Length": 1699,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "C94B12AB06B77009D6D2B558F8C5BFE6"
+    },
+    "Examples\\Immunization\\Example-DataStandardsWales-Immunization-FluVaccine.xml": {
+      "Length": 2572,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "36E049E15C6C3729100DA6DB1660B665"
+    },
+    "Examples\\Immunization\\Example-DataStandardsWales-Immunization-NotGiven.xml": {
+      "Length": 1603,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "C7C1D361F4F9D8DFA00A41CAC06097C4"
+    },
+    "Examples\\Immunization\\Example-DataStandardsWales-Immunization-ParentPresent.xml": {
+      "Length": 1563,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "AE964C6970DAA5663EBDE445956E87D0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Immunization\\Example-DataStandardsWales-Immunization-ParentPresent.page.md": {
+      "Length": 1383,
+      "LastWriteTime": "2024-10-22T09:51:34+00:00",
+      "Hash": "0D1EF2DB694E5F56E78EA1DD904F285F"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-List-Allergies.json": {
+      "Length": 905,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "E9FBF48143ADE37B61FA5169CD306C5C"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-List-Allergies-Generate.json": {
+      "Length": 1616,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "44E16F2CE140D5DA5F2260C39BF3F703"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-List-Allergies-NoKnownAllergy.json": {
+      "Length": 920,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "964F414F4AAC8A7159ED2A7D1A77957C"
+    },
+    "Examples\\Allergies\\Example-DataStandardsWales-List-Allergies-notRecorded.json": {
+      "Length": 820,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "9AD3EEC557DB90E195EB3125E145C9F5"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-List-Medications-GP.xml": {
+      "Length": 3251,
+      "LastWriteTime": "2023-05-25T11:37:10+00:00",
+      "Hash": "FA3D07121253D5AC0D146C739F8A8EB1"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-List-Medications-Inpatient.xml": {
+      "Length": 4086,
+      "LastWriteTime": "2023-05-25T11:37:10+00:00",
+      "Hash": "CD7B8FD53935381A876D27130558DF75"
+    },
+    "Examples\\Example-DataStandardsWales-Location-CadogWard.xml": {
+      "Length": 1152,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "5A6774CA80B15F095F2B04FACBD0000B"
+    },
+    "Examples\\Example-DataStandardsWales-Location-WardE.xml": {
+      "Length": 994,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "A5DC9E254F94D0223DDC26F7FED3A180"
+    },
+    "Examples\\Medications\\Other\\Example-DataStandardsWales-Medication-Amoxicillin-Infusion.xml": {
+      "Length": 802,
+      "LastWriteTime": "2023-03-15T11:54:16+00:00",
+      "Hash": "4818FCD523937385A7935C873898BE58"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-List-Medications-Discharge.xml": {
+      "Length": 3420,
+      "LastWriteTime": "2023-05-22T10:32:20+00:00",
+      "Hash": "F5E5D5ED77C51FA099BEAAA0AE289049"
+    },
+    "Examples\\Medications\\02-Medications-Outpatient\\Example-DataStandardsWales-List-Medications-Outpatient.xml": {
+      "Length": 1177,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "0A8CE30BAE2D870FE27F054715D39028"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Amoxicillin-GP.xml": {
+      "Length": 2060,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "CD247C0AC17A9E47C184CA43F0134327"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Atorvastatin-GP.xml": {
+      "Length": 2016,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "31EE8DAFB9D12B554ECD2856FE49D96B"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Bisoprolol-GP.xml": {
+      "Length": 2018,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "40202B3A3559A708F8D827F3602C353E"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Enbrel-Discharge.xml": {
+      "Length": 2578,
+      "LastWriteTime": "2023-03-15T11:54:16+00:00",
+      "Hash": "1A9140F23784D696FC1AFF79FFED7218"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Enbrel-Inpatient.xml": {
+      "Length": 2581,
+      "LastWriteTime": "2023-03-15T11:54:16+00:00",
+      "Hash": "CB2E877D4CCEAF935B6AC288030F5340"
+    },
+    "Examples\\Medications\\02-Medications-Outpatient\\Example-DataStandardsWales-MedicationStatement-Enbrel-Outpatient.xml": {
+      "Length": 2480,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "BA66554BC79AC9962D7CAA2596EB1330"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Hydrocortisone-GP.xml": {
+      "Length": 2052,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "396113E4A1BD72EE4E48C8CF4B040CE9"
+    },
+    "Examples\\Medications\\03-Medications-Admission\\Example-DataStandardsWales-MedicationStatement-Ibuprofen-Patient.xml": {
+      "Length": 2163,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "A19B7F033069DF27252106317343DA1B"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Latanoprost-GP.xml": {
+      "Length": 2251,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "B65DAF3269695B6BED54202A4BCEB6FE"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Nifedipress-GP.xml": {
+      "Length": 2029,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "A57C6E22D8E00E29C39AFFFA2A97822F"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Ramipril-GP.xml": {
+      "Length": 2004,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "1FC28FE60CE02A0F368F58D6B15BFECD"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ObservationGroup-FBC.xml": {
+      "Length": 4073,
+      "LastWriteTime": "2023-08-01T13:32:54+00:00",
+      "Hash": "22732D50320F472B9CA3D944F1A5084B"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ObservationGroup-LFT.xml": {
+      "Length": 3512,
+      "LastWriteTime": "2023-08-01T13:32:54+00:00",
+      "Hash": "044C178EC668AEDE8E472E68A7C8EA19"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ObservationResult-ALT.xml": {
+      "Length": 2557,
+      "LastWriteTime": "2023-08-01T13:32:54+00:00",
+      "Hash": "2AC1F2E476636CBA39E426906CD76368"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ObservationResult-FBCWBC.xml": {
+      "Length": 2950,
+      "LastWriteTime": "2023-08-01T13:32:54+00:00",
+      "Hash": "7ECE552D6BBF5E2CF39410F21ECCE543"
+    },
+    "Examples\\Example-DataStandardsWales-Organization-GGH.xml": {
+      "Length": 1284,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "3829414B7BC383821361CF98A092930F"
+    },
+    "Examples\\Example-DataStandardsWales-Organization-GPCluster.xml": {
+      "Length": 1126,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "A60A949E6D340DAF3DF4A4968C436C3E"
+    },
+    "Examples\\Example-DataStandardsWales-Organization-GPPractice.xml": {
+      "Length": 1396,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "D33B3911443BAC32797C62ED44E98E93"
+    },
+    "Examples\\Example-DataStandardsWales-Organization-HDUHB.xml": {
+      "Length": 1193,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "39A0EF6FB9E7810AA0515E5AA98229E2"
+    },
+    "Examples\\Example-DataStandardsWales-Organization-NPT.xml": {
+      "Length": 1290,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "9EB51F124F406347149D45423D69056B"
+    },
+    "Examples\\Example-DataStandardsWales-Organization-SBUHB.xml": {
+      "Length": 1200,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "1774B641A0114565C7327AE6EEDA4128"
+    },
+    "Examples\\Example-DataStandardsWales-Patient-AliceJones.xml": {
+      "Length": 3995,
+      "LastWriteTime": "2023-08-01T11:40:12+00:00",
+      "Hash": "F2C2EAD35431481D8D751FFA85C9948A"
+    },
+    "Examples\\Example-DataStandardsWales-Patient-HaroldJames.xml": {
+      "Length": 2809,
+      "LastWriteTime": "2023-08-01T11:06:06+00:00",
+      "Hash": "AFAB2BA56607EF1CB678B434641903D7"
+    },
+    "Examples\\Example-DataStandardsWales-Patient-PeterPiper.xml": {
+      "Length": 1301,
+      "LastWriteTime": "2023-08-01T11:40:12+00:00",
+      "Hash": "AE772A7A953F36EC33357285AA3488DB"
+    },
+    "Examples\\Example-DataStandardsWales-Practitioner-Consultant.xml": {
+      "Length": 746,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "6CC9002E584E4B70F0284C6A8D247CF1"
+    },
+    "Examples\\Example-DataStandardsWales-Practitioner-Doctor.xml": {
+      "Length": 595,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "6D81371AAF4945500DC768A080301915"
+    },
+    "Examples\\Example-DataStandardsWales-Practitioner-Physiotherapist.xml": {
+      "Length": 836,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "9E0021421CC025B6AB482D9424DFF920"
+    },
+    "Examples\\Example-DataStandardsWales-Practitioner-PrescribingNurse.xml": {
+      "Length": 1035,
+      "LastWriteTime": "2023-05-25T11:37:10+00:00",
+      "Hash": "099DE9F901FB31B9C30CF7581A1A42A0"
+    },
+    "Examples\\Example-DataStandardsWales-PractitionerRole-Consultant.xml": {
+      "Length": 968,
+      "LastWriteTime": "2023-07-25T15:14:28+00:00",
+      "Hash": "ACF3BEE090DA2B0577A38B8C7FA0F67F"
+    },
+    "Examples\\Example-DataStandardsWales-PractitionerRole-Physiotherapist.xml": {
+      "Length": 840,
+      "LastWriteTime": "2023-07-25T15:14:28+00:00",
+      "Hash": "440F308F8D0110356851155648874C38"
+    },
+    "Examples\\Example-DataStandardsWales-PractitionerRole-PrescribingNurse.xml": {
+      "Length": 860,
+      "LastWriteTime": "2023-07-25T15:14:28+00:00",
+      "Hash": "70AE0BF24EA71422B44591CDE3E16ECC"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-PathologyOrder.xml": {
+      "Length": 2496,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "CCDECE7F3BEE521009EC0873DAE76F8B"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-PathologyOrder-SpigeoAllComPhno.xml": {
+      "Length": 2114,
+      "LastWriteTime": "2023-08-02T12:54:36+00:00",
+      "Hash": "61C95359779713B820D01E5F87B42294"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-ServiceRequest-RadiologyOrder.xml": {
+      "Length": 1748,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "6F999BA8EF68F4AD78CD6E4CEB077E20"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-Specimen-Blood.xml": {
+      "Length": 1586,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "338E7FA5B016FD4E5E5111395ECECA30"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-Specimen-Urine.xml": {
+      "Length": 1319,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "C34A37889AB4BE248285C45DBC8C73BA"
+    },
+    "Examples\\Diagnostics\\Example-DataStandardsWales-Specimen-Urine-Additive.xml": {
+      "Length": 1322,
+      "LastWriteTime": "2023-03-15T11:54:02+00:00",
+      "Hash": "43E21103875C13A4DDDE00F1AD1F6D4F"
+    },
+    "Examples\\Example-DataStandardsWales-Encounter-InProgressEmergencyAdmission.xml": {
+      "Length": 2584,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "EF75F38000245FD266BDABB322DAF042"
+    },
+    "Examples\\Medications\\Other\\Example-DataStandardsWales-MedicationStatement-Amoxicillin-Infusion.xml": {
+      "Length": 2377,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "D7AE189E62E77FC8DA2D5CBECCFDDC92"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Atorvastatin-Discharge.xml": {
+      "Length": 2298,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "A7B3905E29C77A09756D2308A8A28FF7"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Atorvastatin-Inpatient.xml": {
+      "Length": 2213,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "F72B8E3A5B44A2B12EF86545FFA2748E"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Bendroflumethiazide-Discharge.xml": {
+      "Length": 2290,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "7271217DAED634D2ADF4B123E4462983"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-Bendroflumethiazide-GP.xml": {
+      "Length": 2055,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "CCDE4A2B17E360E6270A56E618FD70F1"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Bendroflumethiazide-Inpatient.xml": {
+      "Length": 2273,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "BF0651DF84D2567F54EDABD2626F2BA2"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Bisoprolol-Discharge.xml": {
+      "Length": 2240,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "07BBA07D461631E8F4D156E1DC44B0DB"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Bisoprolol-Inpatient.xml": {
+      "Length": 2237,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "5EB308C7328A8536BD6079785EBA12E7"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-DurogesicDTrans-Discharge.xml": {
+      "Length": 2315,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "B1E78B33B48685FE7E703C7878C610AA"
+    },
+    "Examples\\Medications\\01-Medications-GP\\Example-DataStandardsWales-MedicationStatement-DurogesicDTrans-GP.xml": {
+      "Length": 2161,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "74078DC091BC52DB3719BE88A1570193"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-DurogesicDTrans-Inpatient.xml": {
+      "Length": 2433,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "CD54AD121784D125EE9156FD849238A8"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Hydrocortisone-Discharge.xml": {
+      "Length": 1857,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "0704216547D9B6EBCCD03E54BEF4D368"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Hydrocortisone-Inpatient.xml": {
+      "Length": 1883,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "5609693EA81F1A1CD760E7BA141AF23F"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Ibuprofen-Discharge.xml": {
+      "Length": 2665,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "F601F9E2CB2F01B18545ADA58A543E44"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Ibuprofen-Inpatient.xml": {
+      "Length": 2650,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "DF6E186D60549D934B0EAE9181CE66F9"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Latanoprost-Discharge.xml": {
+      "Length": 2455,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "3F9018429D4AC12B3BC00E39F6AD4859"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Latanoprost-Inpatient.xml": {
+      "Length": 2448,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "DC182D7ED616B3816E58DC0DD34DB45B"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Nifedipress-Discharge.xml": {
+      "Length": 2208,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "4A178EEFDAE77F3A4895F1EF748A577A"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Paracetamol-Discharge.xml": {
+      "Length": 2272,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "5DF9B441EBFD322A995A34EB606F9B33"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Paracetamol-Inpatient.xml": {
+      "Length": 2204,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "E7017C67CDA9801D2124958B97F8F725"
+    },
+    "Examples\\Medications\\03-Medications-Admission\\Example-DataStandardsWales-MedicationStatement-Paracetamol-Patient.xml": {
+      "Length": 2147,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "247A02EF303B97D89CD2C7F455B3B5F0"
+    },
+    "Examples\\Medications\\05-Medications-Discharge\\Example-DataStandardsWales-MedicationStatement-Ramipril-Discharge.xml": {
+      "Length": 2244,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "A54AF7681BB2941D4A38F3EE4AFB1205"
+    },
+    "Examples\\Medications\\03-Medications-Admission\\Example-DataStandardsWales-List-Medications-Admission.xml": {
+      "Length": 4420,
+      "LastWriteTime": "2023-05-25T11:37:10+00:00",
+      "Hash": "94691C62AE3EB6D50E50BD39DBAA4AF8"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Nifedipress-Inpatient.xml": {
+      "Length": 2315,
+      "LastWriteTime": "2023-03-15T11:54:16+00:00",
+      "Hash": "EAEED9F011E470EE863518513461A186"
+    },
+    "Examples\\Medications\\04-Medications-Inpatient\\Example-DataStandardsWales-MedicationStatement-Ramipril-Inpatient.xml": {
+      "Length": 2196,
+      "LastWriteTime": "2023-03-15T11:54:16+00:00",
+      "Hash": "E92DEA62A5A35829776FA9676F7B6302"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Aspirin.page.md": {
+      "Length": 1553,
+      "LastWriteTime": "2024-05-23T13:38:24+00:00",
+      "Hash": "CA4CABB9831AA7DA923AD98B8BD8D83C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-deleted.page.md": {
+      "Length": 1641,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "99DEF5280B420B3D4B4A149A280DE17E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Ibuprofen.page.md": {
+      "Length": 1655,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "71E2AD88B463955BDBB3110587999DA5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Morphine.page.md": {
+      "Length": 1649,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "D4424F413DF0766A4F6919D8AE78EB2F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Potato.page.md": {
+      "Length": 1431,
+      "LastWriteTime": "2024-09-30T13:08:50+00:00",
+      "Hash": "9047D653C5042729C2D40958613C84B6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-AllergyIntolerance-Wasps.page.md": {
+      "Length": 1631,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "139CD381EE47C89317937DE1605F1064"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-Bundle-Allergies-Degraded.page.md": {
+      "Length": 2227,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "BDA4A7362EC7537CCA9442027421AA2E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-Bundle-Allergies-Update.page.md": {
+      "Length": 2324,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "190A83A4E444BACDB7C48B610042D67B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-List-Allergies-Generate.page.md": {
+      "Length": 2358,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "522438A035DD9CBB6452C27D8BFCEA6B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-List-Allergies-NoKnownAllergy.page.md": {
+      "Length": 2002,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "886B7FB4C9F082E924FBBBC5192CF65E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-CTAbdomen.page.md": {
+      "Length": 1413,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "7897FB642EF05CAC5779FAA177AC4915"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-ECG.page.md": {
+      "Length": 1377,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "CFDF395E98DDCA6F1E70F1F45C10172A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-FBC.page.md": {
+      "Length": 1444,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "89E5611ECA1E7E1EE51B3DDF29B0B22C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-DiagnosticReport-StressTest.page.md": {
+      "Length": 1420,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "B93EB0896FF7CED42492E1ED3699A01E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-ImagingStudy-CTAbdomen.page.md": {
+      "Length": 1393,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "8BA5CFF0FF53E7B03DBA9FEFE2A6DEB5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-ObservationGroup-FBC.page.md": {
+      "Length": 1389,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "A287DF7F618D9B23E0EB7A59872DE899"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-ObservationGroup-LFT.page.md": {
+      "Length": 1392,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "D631384AD33ABD5FD34F8CB15263A4CE"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-ObservationResult-FBCWBC.page.md": {
+      "Length": 1411,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "EAFBEF09F7AA7506D4D610E62C6976AB"
+    },
+    "Examples\\Dosage\\Example-DataStandardsWales-Dosage-Drops.xml": {
+      "Length": 1071,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "8017C80FBE5EB83D41478B85E94BB0CD"
+    },
+    "Examples\\Dosage\\Example-DataStandardsWales-Dosage-OralSolutionPRN.xml": {
+      "Length": 1833,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "9D51C43357C16ECD1241FA84F9327A84"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Encounter-InProgressEmergencyAdmissio.page.md": {
+      "Length": 1401,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "683C1D4B199658E2584FF09F46B306B7"
+    },
+    "Examples\\Example-DataStandardsWales-Observation-ACVPU.xml": {
+      "Length": 1292,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "0441C3474E7AE7A44B0135ED1784CCED"
+    },
+    "Examples\\Example-DataStandardsWales-Observation-BloodPressure.xml": {
+      "Length": 2241,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "5C385D743DAE2B932494BFDD50A3C65F"
+    },
+    "Examples\\Example-DataStandardsWales-Observation-BodyTemperature.xml": {
+      "Length": 1163,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "47B260ABE8BD0F91511DD2844BCC33FB"
+    },
+    "Examples\\Example-DataStandardsWales-Observation-Height.xml": {
+      "Length": 1351,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "85A7FC128A1AF53929F33D04F75A46FE"
+    },
+    "Examples\\Example-DataStandardsWales-Observation-RespiratoryRate.xml": {
+      "Length": 1167,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "40B0F6B57E4AC8C125DEE0D9AA2662F5"
+    },
+    "Examples\\Example-DataStandardsWales-Observation-Weight.xml": {
+      "Length": 1167,
+      "LastWriteTime": "2023-07-31T13:35:32+00:00",
+      "Hash": "AF5CEEE365F4B6CA75A8B580F8E7B627"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-PractitionerRole-Physiotherapist.page.md": {
+      "Length": 1437,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "098EE668FA721435EF862301D8273534"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-PractitionerRole-PrescribingNurse.page.md": {
+      "Length": 1435,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "C8949C048701E2CE92DE4085046F401A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Immunization\\Example-DataStandardsWales-Immunization-FluVaccine.page.md": {
+      "Length": 1363,
+      "LastWriteTime": "2024-10-22T09:54:46+00:00",
+      "Hash": "D315727C507D60C4E0EC45A125F51F08"
+    },
+    "Extensions\\Extension-DataStandardsWales-DemographicsAsRecorded.xml": {
+      "Length": 6533,
+      "LastWriteTime": "2024-06-20T07:29:58+00:00",
+      "Hash": "F79FBDD54B523B18DEEEB971EF80EF70"
+    },
+    "Extensions\\Extension-DataStandardsWales-MedicationCourseOfTherapyType.xml": {
+      "Length": 2665,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "76AD6864F28AC7E25A73947596E41690"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Extension-DataStandardsWales-MedicationCourseOfTherapyType.page.md": {
+      "Length": 1533,
+      "LastWriteTime": "2024-05-23T08:22:58+00:00",
+      "Hash": "AE727747037EDC37A4C234B3F0F8CA4D"
+    },
+    "Extensions\\Extension-DataStandardsWales-Occupation.xml": {
+      "Length": 2209,
+      "LastWriteTime": "2024-05-23T12:16:30+00:00",
+      "Hash": "B37BF521CBA380D9A80F4E4401941B39"
+    },
+    "Extensions\\Extension-DataStandardsWales-Religion.xml": {
+      "Length": 2032,
+      "LastWriteTime": "2023-12-04T13:10:28+00:00",
+      "Hash": "9D87C6B3967E017BD0A1FA5EA58784F2"
+    },
+    "Extensions\\Extension-DataStandardsWales-SingleRecordAllergiesListConfirmedBy.xml": {
+      "Length": 2014,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "B465F0695D004FC9B98DBBEEDB646EDB"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Extension-DataStandardsWales-SingleRecord-AllergiesListConfirmedBy.page.md": {
+      "Length": 1141,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "7ED511251F2932ECA37DBB273A7D78CB"
+    },
+    "Extensions\\Extension-DataStandardsWales-SingleRecordAllergiesListConfirmedDate.xml": {
+      "Length": 1937,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "4F3BF64C7378A03D59D2A485BF7578A2"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Extension-DataStandardsWales-SingleRecord-AllergiesListConfirmedDate.page.md": {
+      "Length": 1054,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "2099D2FCAAA2627EF66BFDB834397AF6"
+    },
+    "Extensions\\Extension-DataStandardsWales-SingleRecordAllergiesListUpdated.xml": {
+      "Length": 1885,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "15697D63404178A5F9EF36A5C325808A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Extension-DataStandardsWales-SingleRecord-AllergiesListUpdated.page.md": {
+      "Length": 1064,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "57381485172F732E5C4326C486CFA12B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Extension-DataStandardsWales-DemographicsAsRecorded.page.md": {
+      "Length": 1159,
+      "LastWriteTime": "2024-05-23T08:23:32+00:00",
+      "Hash": "B031E93939A6CCB9E8171A11B403B040"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Extension-DataStandardsWales-Occupation.page.md": {
+      "Length": 971,
+      "LastWriteTime": "2024-05-23T08:23:04+00:00",
+      "Hash": "16850E97DD099615344E3520BD2B3251"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Dosage\\Example-DataStandardsWales-Dosage-Drops.page.md": {
+      "Length": 1364,
+      "LastWriteTime": "2024-11-21T12:38:00+00:00",
+      "Hash": "3396651D5F957FE9A8DE93D263DF4923"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Location-CadogWard.page.md": {
+      "Length": 1361,
+      "LastWriteTime": "2024-09-24T15:28:50+00:00",
+      "Hash": "51BA4BB7C5C8B7EB1D855F4D3CD6CCAF"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Observation-ACVPU.page.md": {
+      "Length": 1446,
+      "LastWriteTime": "2024-06-27T08:26:32+00:00",
+      "Hash": "3CD4AA3C1AB9BE51368434A77D627BC7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Organization-GGH.page.md": {
+      "Length": 1364,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "5F938B30F38975D31AE40839E2C141AC"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Organization-HDUHB.page.md": {
+      "Length": 1387,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "A4F757B377C380A3AC96E3EAA0026C5A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Organization-NPT.page.md": {
+      "Length": 1301,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "068410B9ABC435A4478C664D2618F5EF"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Organization-SBUHB.page.md": {
+      "Length": 1389,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "C99B1F91F21935015E6F7FA5F208D6B6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Patient-AliceJones.page.md": {
+      "Length": 1354,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "85891396D8D2DFCC22DAC832513146E8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Patient-HaroldJames.page.md": {
+      "Length": 1360,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "C6AD726D881F7B2582DA8205D4B865FD"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Patient-PeterPiper.page.md": {
+      "Length": 1354,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "1400B08F1C1A47BD3C1BA1779821DD8A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Practitioner-Doctor.page.md": {
+      "Length": 1366,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "C24D3E4CFB6A3A7DB70D3BD492D11396"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-AllergyList.page.md": {
+      "Length": 4292,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "84206A89B77F928F50B9F9C97C2E2225"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Encounter.page.md": {
+      "Length": 5129,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "E21490FEFBC365C51F4DFD35DC1D9C38"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Endpoint.page.md": {
+      "Length": 2202,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "5D92F3CC359FBD365516D18F9A88308F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Location.page.md": {
+      "Length": 3663,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "156B4B52D39D23B54B433906D163CFFA"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Medication.page.md": {
+      "Length": 2744,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "3DCA950D50C35A99A2BC3E2C76325F2F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Observation.page.md": {
+      "Length": 8779,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "D0557051020FB28A80B43FA925C71170"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Patient.page.md": {
+      "Length": 7380,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "80C1424A5DCBDF02C138C5DD846F3721"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Provenance.page.md": {
+      "Length": 3022,
+      "LastWriteTime": "2024-05-21T09:37:50+00:00",
+      "Hash": "39FF7B48238D476C41B4F612473B852F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Specimen.page.md": {
+      "Length": 5739,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "2E846002454A96E9CEE1AD2656361F3F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Help-and-Support.page.md": {
+      "Length": 827,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "2083ACB5E75098C516BAE86F34EC18F7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Regular-Meetings.page.md": {
+      "Length": 1259,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "95E7ADF8EC91309754F3450E5F6ACA04"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\styles\\NHSWalesStyle\\style.css": {
+      "Length": 4163,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "8FCA26B8B5E089601161DD326C77BD4D"
+    },
+    "globalvariables.snippet.md": {
+      "Length": 28,
+      "LastWriteTime": "2024-05-21T12:53:48+00:00",
+      "Hash": "686876B62989A8BFCEB0F5FB6CF0BEA6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Amoxicillin-GP.page.md": {
+      "Length": 1523,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "6B1C4BE31D2EF2A61481EFD5F735C34D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Atorvastatin-GP.page.md": {
+      "Length": 1529,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "F0B47441CE94EB141772466BF87DF120"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Bisoprolol-GP.page.md": {
+      "Length": 1517,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "1F8BB5F55CD17368665788D6A8537871"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-DurogesicDTrans-GP.page.md": {
+      "Length": 1473,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "169B43E9813ADF11692379D0F0CB691F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Hydrocortisone-GP.page.md": {
+      "Length": 1541,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "9D90BEE386FEE8659D27A2619E2E7891"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Latanoprost-GP.page.md": {
+      "Length": 1523,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "16B4F6339FDE9E8060EF01BA1B84E666"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Nifedipress-GP.page.md": {
+      "Length": 1523,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "B88C81C536A31C286FCB144ADDD70FC5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Ramipril-GP.page.md": {
+      "Length": 1442,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "F65F57DF83DF5506B65DDA06F7D003B8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Diagnostic-Reports\\Clinical-Scenario-Laboratory-Pathology-Result.page.md": {
+      "Length": 2165,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "F9E31535F58E5DAC94B0749D264FD214"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\Inpatient-Medication.page.md": {
+      "Length": 1302,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "164F856B8D542C0EECFBC32793873823"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\Medicines-on-Admission.page.md": {
+      "Length": 1324,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "73B87A1502A65D8517EF2A981A749EF5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\guide.yaml": {
+      "Length": 201,
+      "LastWriteTime": "2024-09-25T11:03:34+00:00",
+      "Hash": "C78BE522993F598CC631C445724A2BC7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Design-Patterns.page.md": {
+      "Length": 826,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "5D3C5B85D356A251C0D700C810279A87"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\toc.yaml": {
+      "Length": 311,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "344E04F23863E27EF6F41ACD6045FB97"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Example-Index.page.md": {
+      "Length": 10107,
+      "LastWriteTime": "2024-10-07T09:58:46+00:00",
+      "Hash": "62FD447A42E8C8160F2307DB9B820257"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\toc.yaml": {
+      "Length": 664,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "04F2628E89B275017C73946E83FE9A88"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\styles\\NHSWalesStyle\\hl7-logo.png": {
+      "Length": 6650,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "DEC176A85EEC2548D71549C749D7FCC3"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\styles\\NHSWalesStyle\\master.html": {
+      "Length": 124517,
+      "LastWriteTime": "2024-09-25T11:03:16+00:00",
+      "Hash": "F7B1FEB86FD161B2352BA112E835CE1C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\styles\\NHSWalesStyle\\settings.style": {
+      "Length": 72,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "2DFD66F67C2BE159F05A1CEC5BCAA73D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\styles\\NHSWalesStyle\\style.css": {
+      "Length": 9224,
+      "LastWriteTime": "2024-05-21T09:44:14+00:00",
+      "Hash": "9A595890EEB598F42C8387AABBB85536"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\guide.yaml": {
+      "Length": 191,
+      "LastWriteTime": "2024-07-16T11:03:12+00:00",
+      "Hash": "5FCA6518125E43B0233FA7C321D4C412"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\Index.page.md": {
+      "Length": 589,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "9C49C300BD384C521B922A608D3DBDC5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Extensions\\toc.yaml": {
+      "Length": 540,
+      "LastWriteTime": "2024-10-09T11:29:58+00:00",
+      "Hash": "4666C3D022AFC37EA2B6E3B8AD4B8D04"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\toc.yaml": {
+      "Length": 3646,
+      "LastWriteTime": "2024-09-30T13:08:50+00:00",
+      "Hash": "3A94AC956E683140B5ADAECE9BA3953D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\toc.yaml": {
+      "Length": 2580,
+      "LastWriteTime": "2024-10-01T13:59:56+00:00",
+      "Hash": "E95E809D0F44BC164CD758FB9BC9BFE6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\ResourceOverview.page.md": {
+      "Length": 259,
+      "LastWriteTime": "2024-09-30T13:08:50+00:00",
+      "Hash": "2EB583F356B335B529CC40C99280B1C0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\Home\\Change-Notices.page.md": {
+      "Length": 2159,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "E9F76DF6AE30E8E91B309C0EEC87AD09"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Example-ValueSet.page.md": {
+      "Length": 697,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "66CFE8C4021683C904B2B4D7274C8F0D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Index.page.md": {
+      "Length": 313,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "89D9BB13C0D960C73DF53EABE92621E8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\NamingConventions\\Index.page.md": {
+      "Length": 255,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "E433F36EE6750FA999BAC4398DFC31CE"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-Conventions-for-Elements.page.md": {
+      "Length": 434,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "7949D535B4ACC0B94EB602401FC4E28C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\NamingConventions\\Naming-Conventions-for-Extensions.page.md": {
+      "Length": 1108,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "7F8104EE87EE9804230DB810970C3B00"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-Conventions-for-Profiles.page.md": {
+      "Length": 1126,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "9823006C70CAC32051EFAD9CD23C8736"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\NamingConventions\\Naming-Conventions-for-Profiles.page.md": {
+      "Length": 952,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "3C4356390F2B181C0BF995155FE485B4"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-Segments.page.md": {
+      "Length": 1184,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "1FF44DF2C521E914100909D9F84ED016"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\NamingConventions\\Naming-Segments.page.md": {
+      "Length": 1179,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "2A5041CEAEE43AF4CF3D7783B59C7B85"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\toc.yaml": {
+      "Length": 968,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "4E1C39B58ADAB29C3E26FFBCD1DC4F29"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\NamingConventions\\toc.yaml": {
+      "Length": 0,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "D41D8CD98F00B204E9800998ECF8427E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Systems.page.md": {
+      "Length": 1677,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "91E06555055A127DF196BD8BF14186A8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Supplemental-Metadata.page.md": {
+      "Length": 1722,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "E6A0CEFE9AA71B9BC9BBC05490F0167D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\UK-Core-Access.page.md": {
+      "Length": 654,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "FBCB5FEB43DE6DEAE84704C6778F0BC0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Naming-Systems.page.md": {
+      "Length": 1750,
+      "LastWriteTime": "2024-05-21T11:49:36+00:00",
+      "Hash": "A45C21B8DBDABB715C513515A184023A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Dosage\\Index.page.md": {
+      "Length": 52,
+      "LastWriteTime": "2024-09-25T12:51:34+00:00",
+      "Hash": "BC3AE55A75C065D4696E23FE13423DB6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Dosage\\toc.yaml": {
+      "Length": 347,
+      "LastWriteTime": "2024-09-25T12:54:28+00:00",
+      "Hash": "43CC7BAD126A2B7014B50E29285162F1"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Index.page.md": {
+      "Length": 81,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "6BD12F3AC9617C6F00D5B8DDB80D38D4"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Device.page.md": {
+      "Length": 1967,
+      "LastWriteTime": "2024-09-30T13:08:50+00:00",
+      "Hash": "A7C4E9FC0BD972F04D41F537FB3ABF29"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-Dosage.page.md": {
+      "Length": 4927,
+      "LastWriteTime": "2024-10-07T09:58:46+00:00",
+      "Hash": "2B41B4DE61406ECFD5E7ACCF6DC14171"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\ExamplarProfilePage.page.md": {
+      "Length": 3747,
+      "LastWriteTime": "2024-09-30T13:08:50+00:00",
+      "Hash": "042A37DC4848FBC485E090537D32E4DE"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\toc.yaml": {
+      "Length": 2366,
+      "LastWriteTime": "2024-05-23T13:36:06+00:00",
+      "Hash": "5CCDD805738992514BDD4E45A09252D8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\toc.yaml": {
+      "Length": 1822,
+      "LastWriteTime": "2024-08-19T07:29:06+00:00",
+      "Hash": "BE165ADD5381FC8620FEEC980BD73C58"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Immunization\\toc.yaml": {
+      "Length": 440,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "3825595A23CFF12AD1E1563BE4E69B12"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\toc.yaml": {
+      "Length": 638,
+      "LastWriteTime": "2024-09-30T13:08:50+00:00",
+      "Hash": "210D4164811928A113728C2AAA36CCBA"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Index.page.md": {
+      "Length": 1335,
+      "LastWriteTime": "2024-10-11T09:52:28+00:00",
+      "Hash": "4510696939AE7926D31B180F0C2CD2A3"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\toc.yaml": {
+      "Length": 126,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "B37FA103162AA8E1194236C12724384B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\Index.page.md": {
+      "Length": 821,
+      "LastWriteTime": "2024-05-23T13:05:00+00:00",
+      "Hash": "0DE0D55E597443A60A5BC9692F0FB039"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\toc.yaml": {
+      "Length": 722,
+      "LastWriteTime": "2024-05-23T13:02:34+00:00",
+      "Hash": "CD73039D537F27466FA9D0317CC86F72"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\Index.page.md": {
+      "Length": 2050,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "7BF1485DBBCD6B0D7F6233DCEE2FE012"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Concept-Maps\\toc.yaml": {
+      "Length": 990,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "44CDD760530302583398DDAC0EE207F0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Index.page.md": {
+      "Length": 218,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "D34711B03CE90CA734F77090C4E842D2"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\toc.yaml": {
+      "Length": 182,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "8453E1186C1A905CAC02F0F023FF6A20"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\Index.page.md": {
+      "Length": 1006,
+      "LastWriteTime": "2024-05-22T10:28:32+00:00",
+      "Hash": "D0C0C08E15A54740D9895A29EA3E363A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\toc.yaml": {
+      "Length": 1034,
+      "LastWriteTime": "2024-05-23T13:02:22+00:00",
+      "Hash": "776B7AECECC8C5D550753EDB17EF298E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\toc.yaml": {
+      "Length": 176,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "0DA6CA99367A69DF847AACAD548B4E35"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\Data-Model-Clinicians-and-Roles.page.md": {
+      "Length": 154,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "3FFD747502AB46AB80C1DBAE7E0A9B99"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\Data-Model-Organizations-and-Locations.page.md": {
+      "Length": 195,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "B6B141A8D27BA9C6449A9888E3E2190D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\Index.page.md": {
+      "Length": 83,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "640B2715DEDBFF80AE7B98FCCED8CB43"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\Location.page.md": {
+      "Length": 1055,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "2694F3BC51DACE4A0DED35AB05A0484C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\Organization.page.md": {
+      "Length": 1082,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "D0B859EFA03CB4CD478F65F01A74E723"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\Overview.page.md": {
+      "Length": 772,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "20EFD900B327115E9D490DC9C98A1219"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\Practitioner.page.md": {
+      "Length": 702,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "910A2632441F1E3778E15E033958D80B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\PractitionerRole.page.md": {
+      "Length": 800,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "2B21FB05DCAFF35D9F108360BB11FB61"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Administrative-Data\\toc.yaml": {
+      "Length": 520,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "78702D15428B91362422FF3C227186B6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Allergy\\Index.page.md": {
+      "Length": 83,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "640B2715DEDBFF80AE7B98FCCED8CB43"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Allergy\\Introduction.page.md": {
+      "Length": 2891,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "A1697F05ABB68B019241EEFFEB77A630"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Allergy\\toc.yaml": {
+      "Length": 98,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "1F5E18EE8FB332E8E2EE482CA97D0D4D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Diagnostic-Reports\\Clinical-Scenario-Imaging-Investigations.page.md": {
+      "Length": 1407,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "7C16C371525283EF708CE4D72D9B0779"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Diagnostic-Reports\\Index.page.md": {
+      "Length": 80,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "7443BF62328F0A7B49544499264F0AB9"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Diagnostic-Reports\\Introduction.page.md": {
+      "Length": 1199,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "5223597942ECE4779B0170AD9E0138FB"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Diagnostic-Reports\\toc.yaml": {
+      "Length": 481,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "C3672583CB686EE60A35D0BEFC8BE579"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Index.page.md": {
+      "Length": 131,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "3542A788D8A98C9CBA32F9C520FC181C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\Discharge-SUmmary.page.md": {
+      "Length": 1181,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "04A1C7ABC8CCE7B07BE9E1989BAD2C4E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\GP-Record.page.md": {
+      "Length": 1054,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "076E0E9A4F21BFD1E5D9BE8840F26F36"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\Index.page.md": {
+      "Length": 61,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "286677D8F370A2A81ADF5128D9DA52A8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\Introduction.page.md": {
+      "Length": 759,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "3D5F58FA5A7DE9677BB92705020675F6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\Rheumatology-Clinic.page.md": {
+      "Length": 465,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "615F5C1B9FA9AA2DD4F9163C49AB43B7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\Scenario-1\\toc.yaml": {
+      "Length": 432,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "92B9E93692DAB03D1D4026F2A7E8E43C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Clinical-Scenarios\\toc.yaml": {
+      "Length": 86,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "E07CC1D6080EBD9C5A6387A4DDA0C2A5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Index.page.md": {
+      "Length": 82,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "7A297C45B431260ADBB829DC42CD14AC"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\Medications.page.md": {
+      "Length": 656,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "857A4ABD72DB627A744DC9BD29EF380E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Medications\\toc.yaml": {
+      "Length": 156,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "B8520EACDA257B548D4D42DAE063EDB5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Sensitive-Data\\Implementation-Guidance.page.md": {
+      "Length": 2389,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "B93510422EF7F1549BFFFECFA33A5430"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Sensitive-Data\\Index.page.md": {
+      "Length": 83,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "640B2715DEDBFF80AE7B98FCCED8CB43"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Sensitive-Data\\Introduction.page.md": {
+      "Length": 1702,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "51209AF617E7BFEA8C536E0427CFA44E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Sensitive-Data\\Searches.page.md": {
+      "Length": 946,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "D74C68985A3798379FEB2E187D4A3371"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\Sensitive-Data\\toc.yaml": {
+      "Length": 224,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "41AD63B57FAC61AB47FF32EC427F53C0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Guidance\\toc.yaml": {
+      "Length": 258,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "C849D9C6B288B26AA24D349FB1FE0416"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Change-Notices.page.md": {
+      "Length": 525,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "78C2B6BD6C7B9DD667E1681262E86C67"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Deployment.page.md": {
+      "Length": 728,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "5FB4EE694CC4ADCDBBF36B1D65AEB52D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Glossary.page.md": {
+      "Length": 8728,
+      "LastWriteTime": "2024-05-22T07:49:40+00:00",
+      "Hash": "B3EC0D34301E1074E6A5A41356E96FA6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Licensing.page.md": {
+      "Length": 910,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "B5BB1155A1C488CE87E7EA0A13BFD6F0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Version-Control-and-Ballot-Process.page.md": {
+      "Length": 4218,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "2FDFA3D4ED3E1AA9E62F6054F3E2A573"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Version-History.page.md": {
+      "Length": 159,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "0A342D8D654CF94D4869AE370293E588"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Index.page.md": {
+      "Length": 8139,
+      "LastWriteTime": "2024-09-25T11:04:32+00:00",
+      "Hash": "0CBD18374A8D284E4E060C033926E004"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\Home\\Index.page.md": {
+      "Length": 397,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "C5385B46EEDE565011F444370CF763BD"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\How-to-use-this-Implementation-Guide\\Guide-Contents.page.md": {
+      "Length": 373,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "E11B2710B9C2DB1ADB5CAC27A505BF49"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\How-to-use-this-Implementation-Guide\\Index.page.md": {
+      "Length": 81,
+      "LastWriteTime": "2024-09-25T10:13:32+00:00",
+      "Hash": "6BD12F3AC9617C6F00D5B8DDB80D38D4"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\How-to-use-this-Implementation-Guide\\Intended-Audience.page.md": {
+      "Length": 1624,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "1807F2B984D7B15FFF120BB446F59426"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\How-to-use-this-Implementation-Guide\\Sitemap.page.md": {
+      "Length": 34,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "1800790A650344D62DA8C4BC7DE027C8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\How-to-use-this-Implementation-Guide\\toc.yaml": {
+      "Length": 354,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "DF5355606F93A45E1025406A18523422"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Concept-Maps.page.md": {
+      "Length": 185,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "0E45C03C669793D6CEBE8B18E82E06A5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Draft-and-Experimental-Profiles.page.md": {
+      "Length": 2290,
+      "LastWriteTime": "2024-05-22T12:57:24+00:00",
+      "Hash": "7197581D59E1887442115D3756886B69"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Extensions.page.md": {
+      "Length": 463,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "C1D574ECC07C13CBD917AF0A2CF29E9B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Formal-Views-of-Profile-Content.page.md": {
+      "Length": 758,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "29D7260EE7091BC4F1A29DBEAE4E8EC8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Index.page.md": {
+      "Length": 83,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "640B2715DEDBFF80AE7B98FCCED8CB43"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Overview.page.md": {
+      "Length": 436,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "BAEA76D8888073910655A9E98371E33F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Slices.page.md": {
+      "Length": 295,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "B630D67C21E0D4B60E1E6C93C438290D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Terminology-Bindings.page.md": {
+      "Length": 252,
+      "LastWriteTime": "2024-05-13T08:28:20+00:00",
+      "Hash": "53BCB4F1ACE0BCE0034960D7D2C2E823"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\toc.yaml": {
+      "Length": 614,
+      "LastWriteTime": "2024-05-17T07:56:50+00:00",
+      "Hash": "3ED20B46757115F1EC056A7FC8C7067E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\toc.yaml": {
+      "Length": 160,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "6FDEE695A109B2BFDE0210EE38DCB944"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\sitevariables.page.md": {
+      "Length": 24,
+      "LastWriteTime": "2024-05-21T12:52:08+00:00",
+      "Hash": "A3104CD162BA7B05E201ECB3C5D6710B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\toc.yaml": {
+      "Length": 326,
+      "LastWriteTime": "2024-08-19T13:57:44+00:00",
+      "Hash": "3DD6BCC8D2C51D9E41EE08D48433FA25"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\Home\\toc.yaml": {
+      "Length": 302,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "91E17C4A45D33B8377284E345EF35C64"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\Home\\Version-History.page.md": {
+      "Length": 6375,
+      "LastWriteTime": "2024-07-10T08:57:06+00:00",
+      "Hash": "7DF5589A5EF754D85A5BE27DD8582C2C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\Home\\Version-Roadmap.page.md": {
+      "Length": 37,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "E92A7C5323977B8AB781D20A8B73D6D1"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\Home\\Welsh-Health-Circulars.page.md": {
+      "Length": 1667,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "5EDFB68362575F398DBA014D56FD2B45"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\How-to-use-this-Implementation-Guide\\Implementation-Guide-Structure.page.md": {
+      "Length": 4385,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "67BAA309211BC43A67C2BB444B83648A"
+    },
+    "Icons\\icons8-blue-circle-48.png": {
+      "Length": 2109,
+      "LastWriteTime": "2023-03-15T11:54:16+00:00",
+      "Hash": "E0C285076704539B0689A2130334AFF5"
+    },
+    "Icons\\icons8-green-circle-48.png": {
+      "Length": 2267,
+      "LastWriteTime": "2023-03-15T11:54:16+00:00",
+      "Hash": "1AB0CF9C418C04A55B2F9E92399B3D9B"
+    },
+    "Images\\Organization and Location.drawio.png": {
+      "Length": 115120,
+      "LastWriteTime": "2023-05-13T09:09:32+00:00",
+      "Hash": "7A0862C5D3CEC485074785A69C730D14"
+    },
+    "Images\\Practitioner and PractitionerRole.drawio.png": {
+      "Length": 110178,
+      "LastWriteTime": "2023-05-13T09:19:04+00:00",
+      "Hash": "727DDE7EC572B66434C925D606C8BADB"
+    },
+    "Images\\SystemIdentifierNamespacesForWelshPatientIdentifiers.png": {
+      "Length": 102136,
+      "LastWriteTime": "2023-05-22T12:36:46+00:00",
+      "Hash": "60704E1C75E81934FF130BC0E7D5D73E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Immunization\\Example-DataStandardsWales-Immunization-NotGiven.page.md": {
+      "Length": 1348,
+      "LastWriteTime": "2024-10-22T09:52:24+00:00",
+      "Hash": "03876153026CDAC7CF9CF14900A2F171"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\styles\\NHSWalesStyle\\fhir-logo.png": {
+      "Length": 4518,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "4F7C2494BBA96FB16BC24630991A0CEA"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\styles\\NHSWalesStyle\\hl7-logo.png": {
+      "Length": 6650,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "DEC176A85EEC2548D71549C749D7FCC3"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\styles\\NHSWalesStyle\\master.html": {
+      "Length": 119604,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "71E52484518F0BD2BA17AB5CB884B083"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\styles\\NHSWalesStyle\\settings.style": {
+      "Length": 72,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "2DFD66F67C2BE159F05A1CEC5BCAA73D"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-List-Medications-Inpatient.page.md": {
+      "Length": 4127,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "5245293D404378272A65A25D3DDFC8EE"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Atorva.-Inpatient.page.md": {
+      "Length": 1511,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "1689C1F110E49DDCA618A22BF2C75F5C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Bendro.-Inpatient.page.md": {
+      "Length": 1553,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "0E54028E34CCA164BCBBB75DDFED52CC"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Bisop.-Inpatient.page.md": {
+      "Length": 1499,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "3036C6B43E7D1FD88AAD70BBF1E8968F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Duroge.-Inpatient.page.md": {
+      "Length": 1530,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "27075EE737174D627CC1C8E901A11598"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Enbrel-Inpatient.page.md": {
+      "Length": 1550,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "7F00B9219C233379CE8F635BA81CC90A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Hydroc.-Inpatient.page.md": {
+      "Length": 1523,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "0DCE8ECCCF029BEEA060BA629255B98E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Ibupro.-Inpatient.page.md": {
+      "Length": 1493,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "438A7C7DBEFDAFFF07E0BDB4D9B399A2"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Latano.-Inpatient.page.md": {
+      "Length": 1505,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "9F419E4E359727DA2E53C03754F32C2E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Nifedi.-Inpatient.page.md": {
+      "Length": 1485,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "6C61D15BC691B66BEA0317AF41531321"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Parace.-Inpatient.page.md": {
+      "Length": 1505,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "0212DC678CA7DD9B331EB1C4F6AA57FE"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Inpatient\\Example-DataStandardsWales-MedicationStatement-Ramipr.-Inpatient.page.md": {
+      "Length": 1467,
+      "LastWriteTime": "2024-05-13T08:28:30+00:00",
+      "Hash": "BEE125C60B8AD068113DB08926A83563"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\Profile-Descriptions\\Mandatory-and-Must-Support-Data-Elements.page.md": {
+      "Length": 1898,
+      "LastWriteTime": "2024-05-13T08:28:18+00:00",
+      "Hash": "1BF647FCEABFF873EC6D962EBE9DDA48"
+    },
+    "LogicalModels\\LogicalModel-DataStandardsWales-MedicationList.xml": {
+      "Length": 6109,
+      "LastWriteTime": "2023-08-11T12:33:24+00:00",
+      "Hash": "3E3A588923357D081A697B3F7F247CEE"
+    },
+    "LogicalModels\\LogicalModel-DataStandardsWales-MedicationReport.xml": {
+      "Length": 8090,
+      "LastWriteTime": "2023-08-11T12:33:24+00:00",
+      "Hash": "79A7A6F3019689E547826BAD1F325CF6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-List-Medications-GP.page.md": {
+      "Length": 2804,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "F16D3B3F39DDAD9150CE71AF92A858F5"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\Example-DataStandardsWales-MedicationStatement-Bendro.-GP.page.md": {
+      "Length": 1496,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "15900505AFCFB0F8E1F0A89F975513E9"
+    },
+    "Examples\\Medications\\Bundles\\Example-DataStandardsWales-Bundle-MedicationList.xml": {
+      "Length": 8988,
+      "LastWriteTime": "2023-08-01T11:47:50+00:00",
+      "Hash": "72DAF0C9BD425F9844ECC5CCACC23B6C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\Example-DataStandardsWales-Medication-Amoxicillin-Infusion.page.md": {
+      "Length": 1430,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "F0510B0D261EE1089753315E51602859"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\Example-DataStandardsWales-MedicationStatement-Amoxi.-Infusion.page.md": {
+      "Length": 1990,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "5FF74A135D79DC92AB75395E491AFEFD"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-Conventions-for-CodeSystem-and-ValueSet-Resources.page.md": {
+      "Length": 1025,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "78DE3FAE294239FC2E2C31A10E02A731"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\Naming-Conventions\\Naming-COnventions-for-ConceptMap-Resources.page.md": {
+      "Length": 1648,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "B5C97813BF08633D61EFEC4F8F6F4E96"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\NamingConventions\\Naming-Conventions-for-NamingSystem-Resources.page.md": {
+      "Length": 485,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "B188F4B0607FD8BCF03CC84DCAEA52E3"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Design\\NamingConventions\\Naming-Conventions-for-Terminology-Resources.page.md": {
+      "Length": 1484,
+      "LastWriteTime": "2024-05-13T08:28:40+00:00",
+      "Hash": "ACB86B12F704B470B387E6867F5CED64"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Outpatient\\Example-DataStandardsWales-List-Medications-Outpatient.page.md": {
+      "Length": 2061,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "FA218D3BDA0055CB35EEC40C98B00BEA"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-Outpatient\\Example-DataStandardsWales-MedicationStatement-Enbrel-Outpatient.page.md": {
+      "Length": 1544,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "C6C833C28FCCED8B37BF4F5F7609199C"
+    },
+    "package.json": {
+      "Length": 210,
+      "LastWriteTime": "2024-10-30T14:59:26+00:00",
+      "Hash": "8C912453C482DF63408977BB2881F339"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Patient\\Example-DataStandardsWales-Patient-CDR-PatientRecordType-Silver.page.md": {
+      "Length": 1498,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "B4B9C14397F2936A93AEB38E4BE6E9BF"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-AllergyIntolerance.page.md": {
+      "Length": 4244,
+      "LastWriteTime": "2024-05-13T08:28:22+00:00",
+      "Hash": "F7BA27C6272C38E859D4836AB3DA5D08"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-DiagnosticReport-Lab.page.md": {
+      "Length": 10777,
+      "LastWriteTime": "2024-08-19T07:24:54+00:00",
+      "Hash": "5C6CDE74B743056CFE072F4B29E9BDAF"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-MedicationDispense.page.md": {
+      "Length": 2636,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "BF17F568B15F2F8E1908B167F4C41F2A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-MedicationRequest.page.md": {
+      "Length": 2606,
+      "LastWriteTime": "2024-05-13T08:28:24+00:00",
+      "Hash": "56B5102C65C9B298CE6FABA60018375A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\DataStandardsWales-MedicationStatement.page.md": {
+      "Length": 3924,
+      "LastWriteTime": "2024-05-21T09:40:12+00:00",
+      "Hash": "A3754E2DD42275371CEBE2C2E25B90C0"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Medications\\MedicationList-GP\\toc.yaml": {
+      "Length": 1510,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "5AD9D10A215AE52AC49CB272098195A6"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-List-Allergies.page.md": {
+      "Length": 1922,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "F0A2AE3491C634ADB21C3E338F4E8F48"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Allergies\\Example-DataStandardsWales-List-Allergies-Empty.page.md": {
+      "Length": 1793,
+      "LastWriteTime": "2024-05-13T08:28:32+00:00",
+      "Hash": "89AF5F3DFC0AD6CF221B4BCC2A72C61A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-Endpoint-Dicom.page.md": {
+      "Length": 1348,
+      "LastWriteTime": "2024-05-13T08:28:34+00:00",
+      "Hash": "E67DB87661420CB2251729AB3AA55B65"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-Specimen-Blood.page.md": {
+      "Length": 1329,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "62DEB957D5D17C374E573F2B5F7B0781"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Diagnostics\\Example-DataStandardsWales-Specimen-Urine.page.md": {
+      "Length": 1329,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "DDD331D6C3448CE539F8465FC4FEE935"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Dosage\\Example-DataStandardsWales-Dosage-Inhaler.page.md": {
+      "Length": 1462,
+      "LastWriteTime": "2024-09-25T12:55:36+00:00",
+      "Hash": "2C8ED0651D693A681D3F54D9ECE500E8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Dosage\\Example-DataStandardsWales-Dosage-OralSolutionPRN.page.md": {
+      "Length": 1432,
+      "LastWriteTime": "2024-09-25T12:55:38+00:00",
+      "Hash": "548F85D7E5A37C799AD36FBCC99CF9BD"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Encounter-EmergencyAdmission.page.md": {
+      "Length": 1414,
+      "LastWriteTime": "2024-08-19T07:39:12+00:00",
+      "Hash": "F3E227B698BB9FC4D458C00E8DABE830"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Observation-BloodPressure.page.md": {
+      "Length": 1441,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "EBBBA457D093DC4F676F4C746AD6360E"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Observation-BodyHeight.page.md": {
+      "Length": 1403,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "31C5AF9DF59B607C9162B08F70F2F376"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Observation-BodyTemperature.page.md": {
+      "Length": 1453,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "0D63719AA37F487D4877DAD72D2A6229"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Observation-BodyWeight.page.md": {
+      "Length": 1403,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "C008D9E0F53F9106B059667A69CA8C5C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Observation-RespiratoryRate.page.md": {
+      "Length": 1453,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "9395D24C7013DBCD77ADE7F2E591A052"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Organization-GPCluster.page.md": {
+      "Length": 1378,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "B7830BDF9093145F66363E40C86AEB25"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Organization-GPPractice.page.md": {
+      "Length": 1384,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "ACCEFD897A293582A4B023EBFBE5A1ED"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Practitioner-Consultant.page.md": {
+      "Length": 1398,
+      "LastWriteTime": "2024-05-13T08:28:26+00:00",
+      "Hash": "DA9BA144711E73DA1A8A17D10807F0D8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Practitioner-Physiotherapist.page.md": {
+      "Length": 1430,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "45FAB975BFCBCA70F49D790F93000531"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-Practitioner-PrescribingNurse.page.md": {
+      "Length": 1436,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "0D96B0D96F5DE1CC236F2892B9A3E41C"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Profiles-and-Extensions\\Profiles\\Examples\\Example-DataStandardsWales-PractitionerRole-Consultant.page.md": {
+      "Length": 1428,
+      "LastWriteTime": "2024-05-13T08:28:28+00:00",
+      "Hash": "9DD6B984039193D32A1B0FA7E11766AE"
+    },
+    "project.yaml": {
+      "Length": 20,
+      "LastWriteTime": "2024-07-15T06:19:04+00:00",
+      "Hash": "42B23FADEA2F80D9D76908D39CD8463A"
+    },
+    "README.md": {
+      "Length": 28,
+      "LastWriteTime": "2023-04-11T09:45:42+00:00",
+      "Hash": "30E220694A27592F1F1E197D29489AE7"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\CodeSystem-DataStandardsWales-PatientRecordType.page.md": {
+      "Length": 168,
+      "LastWriteTime": "2024-05-23T13:03:26+00:00",
+      "Hash": "2FCE486F4ECE1601D405317772BD6F76"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\CodeSystem-DataStandardsWales-Sex.page.md": {
+      "Length": 150,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "E9733F06CB72CF6BC0EE093B3863A7DA"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Code-Systems\\CodeSystem-DataStandardsWales-Title.page.md": {
+      "Length": 152,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "B30FA9C0A618896E8A2EA9AC1B51FED9"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-Occupation.page.md": {
+      "Length": 172,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "D94CDF3E87D7FCBA52E21DF0900D986F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-ProvenanceActivity.page.md": {
+      "Length": 188,
+      "LastWriteTime": "2024-05-17T07:43:24+00:00",
+      "Hash": "1B5D161F56B15548009EDCCB91518B69"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-Religion.page.md": {
+      "Length": 176,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "88CCD1292F51B88BE347A6271A9F6475"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-WrrsTaskType.page.md": {
+      "Length": 178,
+      "LastWriteTime": "2024-05-13T08:28:38+00:00",
+      "Hash": "4F5790282EED8284FC5840A5ABF45FB3"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\toc.yaml": {
+      "Length": 32,
+      "LastWriteTime": "2024-05-13T08:27:42+00:00",
+      "Hash": "3E2BC1817DFD8F2BD16B380005C2838F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-Version-History-v1.1.0\\toc.yaml": {
+      "Length": 32,
+      "LastWriteTime": "2024-05-15T13:11:50+00:00",
+      "Hash": "3E2BC1817DFD8F2BD16B380005C2838F"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Introduction\\How-to-use-this-Implementation-Guide\\Overview.page.md": {
+      "Length": 755,
+      "LastWriteTime": "2024-10-08T09:45:00+00:00",
+      "Hash": "9E87D7DBC1F52E4DC36CB44C55E33863"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-GenderIdentity.page.md": {
+      "Length": 180,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "4732375198E5E5AF6BCEEB61633065C8"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\FHIR-Assets\\Terminology\\Value-Sets\\ValueSet-DataStandardsWales-MaritalStatus.page.md": {
+      "Length": 180,
+      "LastWriteTime": "2024-05-13T08:28:36+00:00",
+      "Hash": "04D3730D02E0AE44D80BB8BA986F822B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Related-Pages.page.md": {
+      "Length": 7117,
+      "LastWriteTime": "2024-10-08T09:45:00+00:00",
+      "Hash": "7C0E9C09C53411104AE4D3AFACED6BCD"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Release-Notes.page.md": {
+      "Length": 9527,
+      "LastWriteTime": "2024-10-10T11:28:36+00:00",
+      "Hash": "0BAA5AEC4732AAD2B6B2C70CAA1E834B"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\Home\\Help-and-Support\\Training.page.md": {
+      "Length": 4565,
+      "LastWriteTime": "2024-10-08T09:45:00+00:00",
+      "Hash": "2C76885DC5CDDB4A0479B0C37D34AF5A"
+    },
+    "guides\\Wales-FHIR-Implementation-Guide-v1.1.0\\styles\\NHSWalesStyle\\fhir-logo.png": {
+      "Length": 4518,
+      "LastWriteTime": "2024-05-13T08:28:42+00:00",
+      "Hash": "4F7C2494BBA96FB16BC24630991A0CEA"
+    }
+  }
+}
