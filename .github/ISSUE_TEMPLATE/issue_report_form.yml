@@ -1,0 +1,69 @@
+name: Issue Report
+description: File an issue with the NHS Wales FHIR Standards and Implementation Team.
+title: "[Issue]: "
+labels: ["issue", "triage"]
+projects: ["NHSWalesFHIR/NHSWales-fhir-profiles-R4"]
+assignees:
+  - callumsaint
+  - DawesCoding
+  - RohieKhan
+  - SFMusto
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thankyou for taking the time to report an issue. Your call will be logged by the NHS Wales FHIR Standards and Implementation Team and triaged within three working days. Please ensure that you include your full name, a contact email address, and details of your organisation to support follow up.
+  - type: input
+    id: contact-name
+    attributes:
+      label: Name
+      placeholder: ex. Frederick Bloggs
+    validations:
+      required: true
+  - type: input
+    id: contact-address
+    attributes:
+      label: Contact Details
+      placeholder: ex. fred.bloggs@wales.nhs.uk
+    validations:
+      required: true
+  - type: input
+    id: contact-organisation
+    attributes:
+      label: Organisation
+      description: If you are reporting in an organisational capacity, what is the name of your organisation?
+      placeholder: ex. NHS Wales
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: Which type of issue are you reporting?
+      options:
+	- Change Request
+	- Technical Correction
+	- Question
+	- Comment
+      default: Comment
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Issue
+      description: Please provide a full description of the issue, including file path(s) and line(s) of code where appropriate.
+      placeholder: Description or Comment
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: upload
+    id: screenshots
+    attributes:
+      label: Upload screenshots
+      description: If applicable, add screenshots to help explain your problem.
+    validations:
+      required: false
