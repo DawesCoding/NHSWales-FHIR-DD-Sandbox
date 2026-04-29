@@ -39,10 +39,10 @@ body:
       label: Issue Type
       description: Which type of issue are you reporting?
       options:
-	- Change Request
-	- Technical Correction
-	- Question
-	- Comment
+      - Change Request
+      - Technical Correction
+      - Question
+      - Comment
       default: Comment
     validations:
       required: true
