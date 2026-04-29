@@ -12,7 +12,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thankyou for taking the time to report an issue. Your call will be logged by the NHS Wales FHIR Standards and Implementation Team and triaged within three working days. Please ensure that you include your full name, a contact email address, and details of your organisation to support follow up.
+        Thank you for taking the time to report an issue. Your call will be logged by the NHS Wales FHIR Standards and Implementation Team and triaged within three working days. Please ensure that you include your full name, a contact email address, and details of your organisation to support follow up.
   - type: input
     id: contact-name
     attributes:
