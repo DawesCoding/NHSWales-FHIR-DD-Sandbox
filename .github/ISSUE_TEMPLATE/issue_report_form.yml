@@ -37,9 +37,8 @@ body:
     id: issue-type
     attributes:
       label: Issue Type
-      description: 
-      Which type of issue are you reporting?
-     options:
+      description: Which type of issue are you reporting?
+      options:
       - Change Request
       - Technical Correction
       - Question
