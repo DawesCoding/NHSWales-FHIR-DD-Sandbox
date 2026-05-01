@@ -46,13 +46,6 @@ body:
       default: 3
     validations:
       required: true
-   - type: markdown
-    attributes:
-      value: |
-        Change Request - This is a request for change to the referenced specification that is more significant than a mere technical correction.  If this is being applied during designated formal review periods it suggests an alternative to the proposed change.<br>
-        Technical Correction - This is a minor change to the specification that is not thought to impact the behaviour of conformant applications e.g. spelling and grammar.<br>
-        Question - This doesn’t anticipate a change to the specification or the proposal but instead seeks clarification on some aspect of it. <br>
-        Comment - This is commentary about the specification or proposal that does not fit into any of the other feedback categories e.g. users commenting that they agree with a proposal during designated formal review.
   - type: input
     id: package-spec
     attributes:
