@@ -46,17 +46,12 @@ body:
       default: 3
     validations:
       required: true
-  - type: dropdown
+  - type: input
     id: package-spec
     attributes:
       label: Package Specification
       description: In which package release does the issue occur?
-      options:
-      - 2.5.0
-      - 2.4.0
-      - 2.3.0
-      - Pre-2.3.0
-      default: 0
+      placeholder: ex. fhir.r4.wales.2.5.0
     validations:
       required: true
   - type: textarea
